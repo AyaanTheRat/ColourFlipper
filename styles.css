@@ -1,0 +1,20 @@
+#green{
+  background-color: green;
+}
+#red{
+  background-color: red;
+}
+#blue{
+  background-color: blue;
+}
+#random{
+  color: black;
+}
+button{
+  padding: 40px 100px;
+  font-size: 20px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  margin: 5px;
+}
